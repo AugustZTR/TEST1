@@ -1,0 +1,55 @@
+/****register begin****/
+#register{	
+	width: 667px;
+	height: 634px;
+	position: relative;
+	margin: 120px auto;
+	background: #ccc;
+	box-shadow: 3px 3px 20px black;
+}
+#register_title{
+	width: 667px;
+	height: 70px;
+	background: #9e9e9d;
+}
+#img{
+	width: 112px;
+	height: 70px;
+	background: url('../img/register_1900px.png');
+}
+#register_main{
+	text-align: center;
+}
+#register_main form{
+	padding-top: 30px;
+}
+#register_main form input{
+	width: 367px;
+	height: 50px;
+	margin-top: 40px;
+}
+#register span{
+	font-size: 20px;
+}
+#register_main form div{
+	margin-left: -70px;
+}
+#register_main form div .sex{
+	width: 15px;
+	height: 15px;
+}
+#register_main form .check{
+	margin-left: -40px;
+}
+#register_main form .submit{
+	width: 120px;
+	background: #9e9e9d;
+	border: none;
+	font-size: 20px;
+
+}
+#register_main form .submit:hover{
+	background: #203566;
+	color: white;
+}
+/****register end****/

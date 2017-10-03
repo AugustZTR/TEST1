@@ -1,0 +1,24 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+img{
+	border: none;
+}
+a{
+	text-decoration: none;
+}
+ul, li{
+	list-style: none;
+}
+
+/****body begin****/
+#body{
+	width: 1200px;
+	height: 505px;
+	border: 2px solid red;
+	background: #fff;
+	position: relative;
+	margin: 100px auto;
+}
+/****body end****/
